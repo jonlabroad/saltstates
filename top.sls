@@ -1,4 +1,7 @@
 base:
+  'G@roles:fpl':
+    - fpl.pkgs
+    - fpl.aws
   'G@dev:mcp9808 or G@dev:si7021':
     - i2c
     - aws
