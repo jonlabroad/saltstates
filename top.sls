@@ -1,5 +1,5 @@
 base:
-  'G@roles:fpl':
+  'fplmt':
     - fpl.pkgs
     - fpl.aws
   'G@dev:mcp9808 or G@dev:si7021':
